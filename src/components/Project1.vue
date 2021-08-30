@@ -1,7 +1,7 @@
 <template>
     <section class="w-full my-12" >
         <div class="flex-col">
-            <div class="w-full pl-40 pr-16 md:pl-0 md:pr-0">
+            <div class="w-full pl-40 pr-16">
                 <div class="w-full bg-pink-200 flex justify-between shadow-xl h-96 overflow-hidden"> <!--ini-->
                     <div class="flex-col my-8">
                         <img src="\src\assets\web1.png" alt="web1" width="800px">

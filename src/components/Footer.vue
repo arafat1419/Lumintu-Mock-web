@@ -12,7 +12,9 @@
                 </li>
 				<li>
                     <div class="flex-col my-8">
-                        <img src="\src\assets\linkedin.png" alt="git" width="25px">
+                        <a href="">
+                            <img src="\src\assets\linkedin.png" alt="git" width="25px">
+                        </a>
                     </div>
                 </li>
 				<li>
